@@ -1,0 +1,14 @@
+*.class
+*.war
+.classpath
+.metadata/
+.project
+.settings/
+.idea/
+*.iml
+*/*.iml
+*.iws
+logs/
+target/
+app-api/target/
+*/target

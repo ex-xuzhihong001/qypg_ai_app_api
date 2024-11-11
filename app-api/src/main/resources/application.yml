@@ -1,0 +1,15 @@
+server:
+  port: 9900
+spring:
+  application:
+    name: app-api
+  profiles:
+    active: test
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+
+
+
+
